@@ -1,7 +1,7 @@
 # renkli_metin
 ### kod windows.h icerir
-Bu kodu stackoverflow'da buldum (windows icin
-[buldugum kod](https://stackoverflow.com/a/29578507))
+Bu kodu stackoverflow'da buldum (windows icin buldugum 
+[kod](https://stackoverflow.com/a/29578507))
 
 
 ..*telegram
