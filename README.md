@@ -9,4 +9,4 @@ Bu kodu stackoverflow'da buldum (windows icin buldugum
 
 ●Telegram
 
-[![telegram](https://cdn1.iconfinder.com/data/icons/social-shade-rounded-rects/512/telegram-64.png "conact")](https://t.me/tempestas)
+[![telegram](https://cdn1.iconfinder.com/data/icons/social-shade-rounded-rects/512/telegram-64.png "contact")](https://t.me/tempestas)
